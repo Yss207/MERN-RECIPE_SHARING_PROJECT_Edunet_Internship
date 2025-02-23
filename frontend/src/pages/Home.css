@@ -1,0 +1,24 @@
+/* Home Section */
+.home {
+  background-color: #f8f9fa; /* Light background */
+  padding: 20px 0;
+}
+
+/* Carousel */
+.carousel {
+  max-width: 100%;
+  margin: auto;
+}
+
+/* Carousel Image */
+.c-img {
+  height: 500px; /* Ensures all images have a fixed height */
+  object-fit: cover; /* Prevents image distortion */
+}
+
+/* Carousel Caption */
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.6); /* Dark background for readability */
+  padding: 20px;
+  border-radius: 8px;
+}
