@@ -44,7 +44,7 @@ const Carousel = () => {
         </div>
         <div className="carousel-item">
           <img
-            src="https://plus.unsplash.com/premium_photo-1661351531779-c79814cf7677?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             className="d-block w-100 carousel-img"
             alt="..."
           />
@@ -59,7 +59,7 @@ const Carousel = () => {
         </div>
         <div className="carousel-item">
           <img
-            src="https://images.pexels.com/photos/88917/pexels-photo-88917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://images.pexels.com/photos/2479242/pexels-photo-2479242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             className="d-block w-100 carousel-img"
             alt="..."
           />
